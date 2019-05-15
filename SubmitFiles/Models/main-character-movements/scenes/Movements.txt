@@ -1,0 +1,4 @@
+Walking: walking.005.ma
+Jumping: jumping.004.ma
+Crouching: crouching.ma
+Reaching back: reachBack.ma
